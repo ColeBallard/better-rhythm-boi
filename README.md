@@ -1,7 +1,5 @@
 # better-rhythm-boi
 
-Down at the moment
-
 ## **Description**
 
 Play music for frens.
