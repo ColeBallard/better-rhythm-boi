@@ -1,4 +1,4 @@
-# better-rhythm-boi
+# Better Rhythm Boi
 
 ## **Description**
 
